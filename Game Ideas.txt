@@ -3,3 +3,5 @@ I want to make a game where pirates and ninjas from the 1500s can face off again
 Make it a game that's open world and you can craft certain items and weapons.
 
 Allow the player to customize their character and dojo/pirate ship.
+
+Add a skill tree so that players can develop certain skills to gain an edge over competition. 
